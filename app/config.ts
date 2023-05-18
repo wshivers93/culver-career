@@ -1,0 +1,13 @@
+export const madLib1 = "";
+export const madLib2 = "";
+export const madLib3 = "";
+export const madLib4 = "";
+export const madLib5 = "";
+export const madLib6 = "";
+export const madLib7 = "";
+export const madLib8 = "";
+export const madLib9 = "";
+export const madLib10 = "";
+export const madLib11 = "";
+export const madLib12 = "";
+export const madLib13 = "";
